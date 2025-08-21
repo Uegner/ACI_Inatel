@@ -1,0 +1,58 @@
+/* Estilo geral do corpo da página */
+body {
+    font-family: Arial, sans-serif; /* Define uma fonte legível */
+    line-height: 1.6; /* Aumenta o espaçamento entre linhas para melhor leitura */
+    margin: 20px; /* Adiciona um espaço nas bordas da página */
+    background-color: #f4f4f4; /* Cor de fundo suave */
+    color: #333; /* Cor do texto escura, com bom contraste */
+}
+
+/* Estilo para o título principal */
+h1 {
+    color: #0054b3; /* Um azul escuro para o título */
+}
+
+/* Estilo para os links */
+a {
+    color: #0056b3; /* Mesma cor do título para consistência */
+    text-decoration: none; /* Remove o sublinhado padrão */
+}
+
+/* Efeito ao passar o mouse sobre o link */
+a:hover {
+    text-decoration: underline; /* Adiciona o sublinhado de volta para feedback visual */
+}
+
+/* Estilizando os elementos semânticos */
+header, footer {
+    background-color: #0056b3; /* Cor de fundo azul */
+    color: white; /* Texto branco para contraste */
+    text-align: center; /* Centraliza o texto */
+    padding: 20px; /* 20 pixels de espaço INTERNO */
+}
+
+nav {
+    background-color: #333; /* Fundo escuro para o menu */
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white; /* Links brancos */
+    margin: 0 15px; /* 0 de margem em cima/baixo, 15px nas laterais para afastar os links uns dos outros */
+}
+
+main {
+    padding: 20px; /* Adiciona um respiro para o conteúdo principal */
+}
+
+section {
+    background-color: #ffffff; /* Fundo branco para as seções */
+    padding: 15px;
+    margin-bottom: 20px; /* Adiciona uma margem EMBAIXO para separar as seções */
+    border: 1px solid #ddd; /* Adiciona uma borda sutil */
+}
+
+footer p {
+    margin: 0; /* Remove a margem padrão do parágrafo dentro do footer */
+}
