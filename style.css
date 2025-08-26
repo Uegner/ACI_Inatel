@@ -34,7 +34,10 @@ header, footer {
 nav {
     background-color: #333; /* Fundo escuro para o menu */
     padding: 10px;
-    text-align: center;
+    /*text-align: center;*/
+
+    display: flex; /* Usa flexbox para layout */
+    justify-content: center; /* Centraliza os itens horizontalmente */
 }
 
 nav a {
