@@ -1,7 +1,6 @@
 # ADI_Inatel
 ADI - Acessibilidade Digital no Inatel
--A ideia do ACI veio justamente das ideias já impostas nas reuniões sobre investir na parte física, porém na parte digital também.
-É importante ressaltar que atualmente se trata de uma ideia, suscetível a mudanças futuras.
+-A ideia do ADI é importante ressaltar que atualmente se trata de uma ideia, suscetível a mudanças futuras.
 
 O que é o ADI?
 -Uma plataforma digital desenvolvida em HTML/CSS, paralela com o portal acadêmico do aluno, totalmente voltada para a parte de acessibilidade e inclusão de alunos e/ou usuários que podem não ser alunos também, mesmo o objetivo sendo mais voltado para quem está cursando no Inatel. Essa plataforma não seria algo complexo e sim mais simples do que se imagina, usando as regras da acessibilidade WCAG como parâmetro para criar um site totalmente dentro das normas impostas para acessibilidade digital.
